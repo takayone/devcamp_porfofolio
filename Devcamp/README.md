@@ -1,26 +1,17 @@
 # README
 
-heyhey hey takatakataka
+ > this is a ruby on rails 5 application that allows users to create their own portofolio.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ ### Features
 
-Things you may want to cover:
+ - Real time chat engine for comments
+ - Blog
+ - Drag and drop interface
 
-* Ruby version
+ ### Code Example
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ '''ruby
+ def my_friedn method
+ 	puts "something"
+ end
+ '''	
